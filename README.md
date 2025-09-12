@@ -88,10 +88,10 @@
   Fraud detection system with **MLflow, Docker, Streamlit dashboard, GitHub Actions CI/CD**.  
   *Focus:* Fraud detection with XGBoost, Random Forest, and Neural Networks.  
 
--   **Pneumonia X-Ray Classification (ResFormer)**  
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-0D1117?style=flat&logo=pytorch)  
-  Research-inspired model for pneumonia detection using **Identity-Mapping ResFormer**.  
-  *Focus:* Medical Imaging + Transformers.  
+-  **SciSynth-AI / CrewAI (Python Version)**  
+  ![LangChain](https://img.shields.io/badge/-LangChain-0D1117?style=flat) ![LangGraph](https://img.shields.io/badge/-LangGraph-0D1117?style=flat) ![Streamlit](https://img.shields.io/badge/-Streamlit-0D1117?style=flat)  
+  Intelligent research assistant leveraging **AI agents** to **search, analyze, and synthesize academic papers from arXiv**.  
+  *Features:* Identify promising research directions, generate new ideas, write research papers with **LaTeX equations**.  
 
 -   **Vehicle Detection & Counting (YOLOv8)**  
   ![YOLO](https://img.shields.io/badge/-YOLOv8-0D1117?style=flat) ![Streamlit](https://img.shields.io/badge/-Streamlit-0D1117?style=flat&logo=streamlit)  
