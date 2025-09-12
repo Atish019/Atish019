@@ -76,6 +76,33 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=flat&logo=sqlite)
 ![VectorDB](https://img.shields.io/badge/-Vector%20Databases-0D1117?style=flat&logo=databricks)
 
+#  Featured Projects  
+
+-   **Generative AI Applications**  
+  ![LLM](https://img.shields.io/badge/-LLMs-0D1117?style=flat&logo=huggingface)  
+  End-to-end pipelines using **LangChain, LangGraph, RAG**, and vector DBs.  
+  *Focus:* Chatbots, Document Q&A, and Multimodal AI experiments.   
+
+-   **Credit Card Fraud Detection**  
+  ![MLflow](https://img.shields.io/badge/-MLflow-0D1117?style=flat) ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)  
+  Fraud detection system with **MLflow, Docker, Streamlit dashboard, GitHub Actions CI/CD**.  
+  *Focus:* Fraud detection with XGBoost, Random Forest, and Neural Networks.  
+
+-   **Pneumonia X-Ray Classification (ResFormer)**  
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-0D1117?style=flat&logo=pytorch)  
+  Research-inspired model for pneumonia detection using **Identity-Mapping ResFormer**.  
+  *Focus:* Medical Imaging + Transformers.  
+
+-   **Vehicle Detection & Counting (YOLOv8)**  
+  ![YOLO](https://img.shields.io/badge/-YOLOv8-0D1117?style=flat) ![Streamlit](https://img.shields.io/badge/-Streamlit-0D1117?style=flat&logo=streamlit)  
+  Real-time vehicle detection & counting with **Streamlit dashboard**.  
+  *Focus:* Computer Vision + Object Detection.   
+
+-   **Conversational Chatbot**  
+  ![Groq](https://img.shields.io/badge/-Groq-0D1117?style=flat) ![LLaMA](https://img.shields.io/badge/-LLaMA3-0D1117?style=flat)  
+  Chatbot with **Groq API + LLaMA-3**, supporting context retention & memory.  
+  *Focus:* Conversational AI & LLMs.    
+
 
 ## 🧰 Others  
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)
