@@ -12,7 +12,7 @@
 🎓 Pursuing Master's in AI & ML at IIIT Lucknow  
 🤖 Passionate about AI: from Computer Vision (YOLO, GANs, U-Net) to NLP & Transformers  
 🛠️ Skilled in MLOps: MLflow, DVC, Docker, GitHub Actions, Kubernetes  
-📚 Exploring Generative AI, LangChain, LlamaIndex, RAG & Hugging Face Ecosystem  
+📚 Exploring Generative AI, LangChain, LangGraph, LangSmith LlamaIndex, RAG & Hugging Face Ecosystem  
 ⚡ Hands-on with LLM Fine-tuning: GPT-2, LoRA, QLoRA, Gemma-2  
 💡 Building projects in Fraud Detection, X-Ray Classification, RAG Chatbots, and more  
 🎯 Goal: Become an expert AI Engineer & create scalable, impactful AI solutions
