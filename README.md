@@ -1,4 +1,4 @@
-<h1 align="center">☀️ Hey, I'm Atish Sharma! 🙏</h1>
+<h1 align="center">☀️ Hey, I'm Atish Kumar Sharma 🙏</h1>
 <h3 align="center">Curious Mind in AI & ML | Love to Learn & Build | Future AI Engineer</h3>
 
 <p align="center">
@@ -88,7 +88,7 @@
   Fraud detection system with **MLflow, Docker, Streamlit dashboard, GitHub Actions CI/CD**.  
   *Focus:* Fraud detection with XGBoost, Random Forest, and Neural Networks.  
 
--  **SciSynth-AI / CrewAI (Python Version)**  
+-  **SciSynth-AI (Python Version)**  
   ![LangChain](https://img.shields.io/badge/-LangChain-0D1117?style=flat) ![LangGraph](https://img.shields.io/badge/-LangGraph-0D1117?style=flat) ![Streamlit](https://img.shields.io/badge/-Streamlit-0D1117?style=flat)  
   Intelligent research assistant leveraging **AI agents** to **search, analyze, and synthesize academic papers from arXiv**.  
   *Features:* Identify promising research directions, generate new ideas, write research papers with **LaTeX equations**.  
