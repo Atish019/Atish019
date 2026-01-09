@@ -1,21 +1,42 @@
 <h1 align="center">☀️ Hey, I'm Atish Kumar Sharma 🙏</h1>
-<h3 align="center">Curious Mind in AI & ML | Love to Learn & Build | Future AI Engineer</h3>
+<h3 align="center">Curious Mind in AI & ML | Love to Learn & Build | Future AI/ML Engineer & Data Scientist </h3>
 
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=5BC0EB&center=true&vCenter=true&width=435&lines=M.Sc+(AI+%26+ML)+@+IIIT+Lucknow;Lifelong+Learner+%F0%9F%93%9A;Building+ML+Projects+with+Docker+%7C+MLflow+%7C+Streamlit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=950&lines=M.Sc.+AI+%26+ML+@+IIIT+Lucknow;AI%2FML+%26+Agentic+AI+Enthusiast;LLM+Fine-tuning+%7C+RAG+%7C+Autonomous+Agents;MLOps+%7C+AWS+%7C+S3+%7C+CI%2FCD+Pipelines;DSA+%7C+DBMS+%7C+Machine+Learning+%7C+Deep+Learning;Cloud+Computing+%7C+Reinforcement+Learning+%7C+NLP+%7C+Computer+Vision;Data+Mining+and+Warehousing+%7C+Building+Human-Centered+AI+Applications" alt="Typing Animation" />
 </p>
+
+<div align="center">
+  
+## 🧠 About Me
+
+I am a Master's student in **Artificial Intelligence & Machine Learning** at **IIIT Lucknow**, focused on building **practical, scalable, and production-ready AI systems**.
+
+My interests span across **Machine Learning, Deep Learning, Computer Vision, and Generative AI**, with hands-on experience in designing end-to-end pipelines—from data processing and model training to deployment and monitoring.
+
+- 🤖 **AI & ML:** Classical ML, Deep Learning, Transformers  
+- 🖼️ **Computer Vision:** YOLO, GANs, U-Net  
+- 🧠 **Generative AI & LLMs:** LangChain, LangGraph, LlamaIndex, RAG, Hugging Face  
+- ⚡ **LLM Fine-Tuning:** GPT-2, LoRA, QLoRA, Gemma-2  
+- 🛠️ **MLOps & Deployment:** MLflow, DVC, Docker, GitHub Actions, Kubernetes  
+- 💡 **Projects:** Fraud Detection Systems, RAG-based Chatbots, Agentic AI Research Assistants, Computer Vision Applications  
+
+🎯 **Goal:** To grow as an AI Engineer and Data Scientist by building intelligent systems that solve real-world problems at scale.
+
+<div align="center">
 
 ---
 
-## 🧠 About Me
+### 🤝 Connect with Me  
 
-🎓 Pursuing Master's in AI & ML at IIIT Lucknow  
-🤖 Passionate about AI: from Computer Vision (YOLO, GANs, U-Net) to NLP & Transformers  
-🛠️ Skilled in MLOps: MLflow, DVC, Docker, GitHub Actions, Kubernetes  
-📚 Exploring Generative AI, LangChain, LangGraph, LangSmith LlamaIndex, RAG & Hugging Face Ecosystem  
-⚡ Hands-on with LLM Fine-tuning: GPT-2, LoRA, QLoRA, Gemma-2  
-💡 Building projects in Fraud Detection, X-Ray Classification, RAG Chatbots, and more  
-🎯 Goal: Become an expert AI Engineer & create scalable, impactful AI solutions
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atish.sharma7321@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atish-kr-sharma-85a2972a7/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atish019)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/atishshrma)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gaurav9693089415&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+</div>
 
 ---
 
