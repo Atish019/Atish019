@@ -1,4 +1,4 @@
-<h1 align="center">☀️ Hey, I'm Atish Kumar Sharma 🙏</h1>
+<h1 align="center">☀️ Hey, I'm Atish Kumar Sharma <img src="party-github.gif" width="40" </h1>
 <h3 align="center">Curious Mind in AI & ML | Love to Learn & Build | Future AI/ML Engineer & Data Scientist </h3>
 
 <!-- Typing animation -->
@@ -8,7 +8,7 @@
 
 <div align="center">
   
-## 🧠 About Me
+## 🧠 About Me <img src="party-github.gif" width="30" />
 
 **Name:** Atish Kumar Sharma  
 **Location:** Lucknow, India  
@@ -18,8 +18,6 @@
 **Interests:** Agentic AI, Reinforcement Learning, LLMOps, Scalable & Production-Ready AI Systems  
 
 🎯 *“Building intelligent, scalable AI systems that solve real-world problems.”*
-
-🎯 **Goal:** To grow as an AI Engineer and Data Scientist by building intelligent systems that solve real-world problems at scale.
 
 <div align="center">
 
@@ -38,7 +36,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack <img src="party-github.gif" width="30" />
 
 ### 🔹 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -105,49 +103,26 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+---
 
-#  Featured Projects  
+## 🚀 Featured Projects <img src="party-github.gif" width="30" />
 
--   **Generative AI Applications**  
-  ![LLM](https://img.shields.io/badge/-LLMs-0D1117?style=flat&logo=huggingface)  
-  End-to-end pipelines using **LangChain, LangGraph, RAG**, and vector DBs.  
-  *Focus:* Chatbots, Document Q&A, and Multimodal AI experiments.   
+▸ Post-Discharge-Medical-AI-Assistant  
+▸ MultiAgent-AI-Trip-Planner  
+▸ Gemma2b-LoRA-Finetuning-Quotes  
+▸ Butterfly-Semantic-Segmentation-U-Net  
+▸ Agriculture-AI-Crop-Ranking-System  
+▸ SciSynth-AI  
+▸ Conversational Chatbot  
+▸ Vehicle Detection & Counting (YOLOv8)  
+▸ Credit Card Fraud Detection  
 
--   **Credit Card Fraud Detection**  
-  ![MLflow](https://img.shields.io/badge/-MLflow-0D1117?style=flat) ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)  
-  Fraud detection system with **MLflow, Docker, Streamlit dashboard, GitHub Actions CI/CD**.  
-  *Focus:* Fraud detection with XGBoost, Random Forest, and Neural Networks.  
-
--  **SciSynth-AI (Python Version)**  
-  ![LangChain](https://img.shields.io/badge/-LangChain-0D1117?style=flat) ![LangGraph](https://img.shields.io/badge/-LangGraph-0D1117?style=flat) ![Streamlit](https://img.shields.io/badge/-Streamlit-0D1117?style=flat)  
-  Intelligent research assistant leveraging **AI agents** to **search, analyze, and synthesize academic papers from arXiv**.  
-  *Features:* Identify promising research directions, generate new ideas, write research papers with **LaTeX equations**.  
-
--   **Vehicle Detection & Counting (YOLOv8)**  
-  ![YOLO](https://img.shields.io/badge/-YOLOv8-0D1117?style=flat) ![Streamlit](https://img.shields.io/badge/-Streamlit-0D1117?style=flat&logo=streamlit)  
-  Real-time vehicle detection & counting with **Streamlit dashboard**.  
-  *Focus:* Computer Vision + Object Detection.   
-
--   **Conversational Chatbot**  
-  ![Groq](https://img.shields.io/badge/-Groq-0D1117?style=flat) ![LLaMA](https://img.shields.io/badge/-LLaMA3-0D1117?style=flat)  
-  Chatbot with **Groq API + LLaMA-3**, supporting context retention & memory.  
-  *Focus:* Conversational AI & LLMs.    
+---
 
 
-# 📊 GitHub Stats  
+## 🐍 GitHub Contribution Snake <img src="party-github.gif" width="30" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atish019&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="github-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atish019&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atish019&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atish019&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
