@@ -64,14 +64,29 @@
 
 ### 🔹 **LLMs & Generative AI**
 ![Transformers](https://img.shields.io/badge/Transformers-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1E1E1E?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-2C3E50?style=for-the-badge)
 ![LangSmith](https://img.shields.io/badge/LangSmith-0A0A0A?style=for-the-badge)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-34495E?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-16A085?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🔹 **LLM Fine-Tuning & Adaptation**
+![BERT](https://img.shields.io/badge/BERT-00599C?style=for-the-badge)
+![GPT--2](https://img.shields.io/badge/GPT--2-412991?style=for-the-badge)
 ![LoRA](https://img.shields.io/badge/LoRA-8E44AD?style=for-the-badge)
 ![QLoRA](https://img.shields.io/badge/QLoRA-9B59B6?style=for-the-badge)
+![Gemma--2](https://img.shields.io/badge/Gemma--2-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![PEFT](https://img.shields.io/badge/PEFT-0B5345?style=for-the-badge)
+![HuggingFace%20Trainer](https://img.shields.io/badge/HF%20Trainer-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🔹 **Natural Language Processing (NLP)**
+![BERT](https://img.shields.io/badge/BERT-00599C?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
+![Tokenization](https://img.shields.io/badge/Tokenization-2C3E50?style=for-the-badge)
+![Text%20Classification](https://img.shields.io/badge/Text%20Classification-16A085?style=for-the-badge)
+![Named%20Entity%20Recognition](https://img.shields.io/badge/NER-8E44AD?style=for-the-badge)
+![Text%20Preprocessing](https://img.shields.io/badge/Text%20Preprocessing-34495E?style=for-the-badge)
 
 ### 🔹 **Databases & Vector Stores**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -116,13 +131,32 @@
 ▸ Conversational Chatbot  
 ▸ Vehicle Detection & Counting (YOLOv8)  
 ▸ Credit Card Fraud Detection  
+▸ *and more…*
+</p>
+</div>
 
 ---
 
+## 🏆 Achievements & Certifications
 
+- **Amazon ML Challenge:** Secured **Team AIR 500+** in a nationwide machine learning competition  
+
+- **Data Science with Python** – Simplilearn   [![Certificate](https://img.shields.io/badge/View-Certificate-2EA44F?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/14EnCryF1Aqnus0YpDwvie3j_pCZVoHYw/view?usp=sharing)
+
+- **Machine Learning** – Simplilearn   [![Certificate](https://img.shields.io/badge/View-Certificate-2EA44F?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1AqZPGFfGbKORBTk9WdRM71V4vpdw7-o0/view?usp=sharing)
+
+- **Full Stack Web Development (CSS, Bootstrap, JavaScript, PHP)** – Udemy  [![Certificate](https://img.shields.io/badge/View-Certificate-2EA44F?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1x99-OEf-fDqfoJVTsen8KfSRk_WDOC9z/view?usp=sharing)
+
+- **110+ Exercises: Python + SQL (SQLite Databases)** – Udemy  [![Certificate](https://img.shields.io/badge/View-Certificate-2EA44F?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1Kkzc7iriaY7z1FBS4QkCNS_SOl1P3cnh/view?usp=sharing)
+
+- ### **From-Scratch Implementations:**  
+  **Large Language Model (LLM's) • GANs • ResNet • Inception • VGG16 (Pneumonia Classification)**
+
+<div align="center">
+  
 ## 🐍 GitHub Contribution Snake <img src="party-github.gif" width="30" />
 
 <p align="center">
   <img src="github-snake.svg" alt="GitHub Contribution Snake" />
 </p>
-
+</div>
