@@ -1,5 +1,5 @@
 <h1 align="center">☀️ Hey, I'm Atish Kumar Sharma <img src="party-github.gif" width="40" </h1>
-<h3 align="center">Curious Mind in AI & ML | Love to Learn & Build | Future AI/ML Engineer & Data Scientist </h3>
+<h3 align="center">Curious Mind in AI & ML | Love to Learn & Build | AI/ML Engineer </h3>
 
 <!-- Typing animation -->
 <p align="center">
@@ -14,10 +14,7 @@
 **Location:** Lucknow, India  
 **Current:** M.Sc. AI & ML @ IIIT Lucknow  
 **Background:** Mathematics  
-**Specialties:** ML • DL • Generative AI • LLMs • NLP • RAG • MLOps  
-**Interests:** Agentic AI, Reinforcement Learning, LLMOps, Scalable & Production-Ready AI Systems  
-
-🎯 *“Building intelligent, scalable AI systems that solve real-world problems.”*
+**Specialties:** ML • DL • Generative AI • LLMs • NLP • RAG • MLOps 
 
 <div align="center">
 
