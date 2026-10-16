@@ -15,6 +15,7 @@
 **M.Sc. in AI & ML**, IIIT Lucknow (2024–2026)      
 **Background:** Mathematics ( B.Sc )    
 **Location:** India    
+**Portfolio:** [atish019.github.io](https://atish019.github.io/)        
 **Specialties:** ML • DL • Generative AI • LLMs • NLP • RAG • MLOps 
 
 <div align="center">
